@@ -1,0 +1,7 @@
+# Формат: login:password:HWID:status
+# status = active или none
+# HWID = auto (привяжется первый зашедший) или конкретный HWID
+
+admin:admin123:auto:active
+test:test123:auto:active
+expireduser:pass123:ABCD1234:none
