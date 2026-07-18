@@ -1,3 +1,3 @@
 moreshka:pipiska111:auto:active
 check:123:auto:none
-hwidcheck:123:ABCD1234:none
+hwidcheck:123:ABCD1234:active
