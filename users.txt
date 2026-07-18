@@ -1,3 +1,3 @@
 moreshka:pipiska111:auto:active
-test:test123:auto:active
-expireduser:pass123:ABCD1234:none
+check:123:auto:none
+hwidcheck:123:ABCD1234:none
