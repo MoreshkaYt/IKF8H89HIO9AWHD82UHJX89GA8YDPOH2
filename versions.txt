@@ -1,1 +1,1 @@
-1.1
+moreshka-client-2.4.5
