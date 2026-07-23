@@ -1,3 +1,3 @@
-moreshka:pipiska111:D765D4EFEF4F8A0A9C308D09E39AC4CD:active
+moreshka:pipiska111:checkhwid:active
 khalilka:q1w2e3:checkhwid:none
 hwidcheck:123:ABCD1234:active
