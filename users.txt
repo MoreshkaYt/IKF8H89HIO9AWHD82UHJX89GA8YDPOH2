@@ -1,3 +1,3 @@
-moreshka:pipiska111:03000200-0400-0500-0006-000700080008:active
-check:123:auto:none
+moreshka:pipiska111:03000200-0400-0500-0006-000700080009:active
+khalilka:q1w2e3:auto:none
 hwidcheck:123:ABCD1234:active
