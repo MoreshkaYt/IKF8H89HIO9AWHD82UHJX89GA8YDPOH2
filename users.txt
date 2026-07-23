@@ -1,3 +1,3 @@
-moreshka:pipiska111:auto:active
-khalilka:q1w2e3:auto:none
+moreshka:pipiska111:checkhwid:active
+khalilka:q1w2e3:checkhwid:none
 hwidcheck:123:ABCD1234:active
