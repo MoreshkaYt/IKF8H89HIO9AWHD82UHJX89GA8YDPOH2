@@ -1,1 +1,1 @@
-1.1.1-transformer-calls
+1.1.2-class-placeholder
